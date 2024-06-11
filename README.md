@@ -1,5 +1,10 @@
 ## Sales Insights Data Analysis Project
 
+I have generated valuable sales insights for one of the leading computer hardware producers in India - Atliq Hardwares. The MySQL database is connected to the PowerBI Dashboard.These insights are helpful for the management team to take actionable and data-informed decisions in the affected areas and help them grow their business.
+
+### Project Overview
+The primary goal of this project was to provide the management team at Atliq Hardware with critical insights into their sales performance, helping them make data-informed decisions to optimize their business strategy and drive growth. The insights generated from this project are instrumental in identifying key areas for improvement, understanding market trends, and evaluating sales strategies.
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
